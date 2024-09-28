@@ -1,5 +1,7 @@
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddybaddog&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddybaddog&layout=compact)
+-->
 <h1 align="center">Hi 👋, I'm peperoni</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
